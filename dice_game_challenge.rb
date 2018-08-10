@@ -52,7 +52,7 @@ if computer_score > my_total
 elsif my_total > computer_score
 puts "Yay!! You won!"
 
-elsif computer_score = my_total
+elsf computer_score = my_totale
 puts "You both tied."
 
 end 
