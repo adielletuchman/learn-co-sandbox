@@ -41,10 +41,6 @@ computer_total = computer_rolls.sample
 puts computer_total
 
 
-
-
-
-
 # STEP 6
 # Determine the winner/if it is a tie and output a message that congratulates the winner! 
 
