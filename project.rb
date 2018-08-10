@@ -60,13 +60,11 @@ answer == gets.chomp
 if answer.downcase == "west" 
   jon_points += 1 
   katelyn_points += 1 
-  
 end 
 
 if answer.downcase == "east"  
   dominique_points += 1  
   justine_points += 1  
-  
 end 
 
 puts "You are #{jon_points * 20}% you are like Jon!"
@@ -74,4 +72,12 @@ puts "You are #{katelyn_points * 20}% you are like Katelyn!"
 puts "You are #{dominique_points * 20}% you are like Dominique!"
 puts "You are #{justine_points * 20}% you are like Justine!"
   
+
+
+
+
+
+
+
+
 
